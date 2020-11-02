@@ -157,7 +157,7 @@ nav ul li a:hover{
 	
 	background: #b6e9e93d;
 	text-align: center;
-	padding: 45px 30px;
+	padding: 50px 30px;
 	border-radius: 15px;
 	transition-duration: 0.4s;
 }
@@ -171,7 +171,7 @@ nav ul li a:hover{
     height: 80px;
 }
 .feature h3{
-	font-size: 20px;
+	font-size: 22px;
 	color: #423960;
 	margin: 5px 0;
 }
@@ -207,8 +207,9 @@ nav ul li a:hover{
 	margin-top: 15px;
 }
 .course ul li{
-	color: #413960;
-	font-size: 18px;
+    color: #413960e8;
+    font-size: 17px;
+    font-weight: 600;
 }
 .course ul li i{}
 
@@ -242,8 +243,8 @@ nav ul li a:hover{
 
 /*****footer-section***/
 footer{
-	background: #39393b; 
-	padding-top: 40px 0;
+	background: #20202ff7;
+	padding-top: 42px !important;
 }
 footer p{
 	color: white;
